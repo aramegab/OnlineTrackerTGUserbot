@@ -16,7 +16,7 @@ Telegram-юзербот, который автоматически отслеж�
 ## Run
 
 ```bash
-  git cline https://github.com/aramegab/OnlineTrackerTGUserbot.git
+  git clone https://github.com/aramegab/OnlineTrackerTGUserbot.git
 ```
 ```bash
   cd OnlineTrackerTGUserbot
@@ -48,7 +48,7 @@ To run, you will need to add the following variables to your config.ini file
 ## Run
 
 ```bash
-  git cline https://github.com/aramegab/OnlineTrackerTGUserbot.git
+  git clone https://github.com/aramegab/OnlineTrackerTGUserbot.git
 ```
 ```bash
   cd OnlineTrackerTGUserbot
