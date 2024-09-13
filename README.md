@@ -22,6 +22,9 @@ Telegram-юзербот, который автоматически отслеж�
   cd OnlineTrackerTGUserbot
 ```
 ```bash
+  cd userbot
+```
+```bash
   pip3 install -r req.txt
 ```
 ```bash
@@ -52,6 +55,9 @@ To run, you will need to add the following variables to your config.ini file
 ```
 ```bash
   cd OnlineTrackerTGUserbot
+```
+```bash
+  cd userbot
 ```
 ```bash
   pip3 install -r req.txt
